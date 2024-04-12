@@ -17,4 +17,4 @@ News app is a sleek and intuitive news application crafted with HTML, CSS, and J
 To get started with News app, simply clone this repository and open the `index.html` file in your favorite web browser.
 
 ```bash
-`git clone https://github.com/charith-codex/news_app.git`
+git clone https://github.com/charith-codex/news_app.git
