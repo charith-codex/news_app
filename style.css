@@ -13,7 +13,7 @@
     object-fit: cover;
   }
   .heading-container {
-    background-color: #cb202d;
+    background-color: #b31d4a;
     color: #ffffff;
     font-size: 2.5em;
     padding: 0.8em 0;
@@ -83,7 +83,7 @@
   .view-button {
     position: relative;
     text-decoration: none;
-    background-color: #cb202d;
+    background-color: #c44974;
     color: #ffffff;
     width: 7em;
     text-align: center;
@@ -91,7 +91,7 @@
     border-radius: 5px;
   }
   .active {
-    background-color: #cb202d;
+    background-color: hsl(338, 68%, 49%);
     color: #ffffff;
   }
   @media only screen and (max-width: 768px) {
